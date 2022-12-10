@@ -1,2 +1,2 @@
 # adventofcode
-advent of code ... just getting it done
+advent of code ... solving problems the most inefficient way possible. enjoy!
